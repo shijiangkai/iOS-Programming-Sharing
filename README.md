@@ -102,12 +102,12 @@ site:zhihu.com/ iOS 零基础
 ------------------------------------------
  [斯坦福大学公开课：iOS 7应用开发](http://v.163.com/special/opencourse/ios7.html)  
 
-[斯坦福大学公开课 iOS 笔记 by：@萧宸宇](http://iiiyu.com/2012/10/25/ios-notes-navigation/)
+[斯坦福大学公开课 iOS 笔记 by：@萧宸宇](http://iiiyu.com/2012/10/25/ios-notes-navigation)
 
 
 五、其他资料分享
 ---------------------------------------
-[《自学 iOS 开发的一些经验》by:@limboy](http://limboy.me/ios/2014/12/31/learning-ios.html/)
+[《自学 iOS 开发的一些经验》by:@limboy](http://limboy.me/ios/2014/12/31/learning-ios.html)
 
 [iOS 学习资料整理 Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS)
  
