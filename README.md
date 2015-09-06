@@ -107,7 +107,7 @@ site:zhihu.com/ iOS 零基础
 
 五、其他资料分享
 ---------------------------------------
-[《自学 iOS 开发的一些经验》by:@limboy](http://limboy.me/ios/2014/12/31/learning-ios.html//)
+[《自学 iOS 开发的一些经验》by:@limboy](http://limboy.me/ios/2014/12/31/learning-ios.html/)
 
 [iOS 学习资料整理 Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS)
  
