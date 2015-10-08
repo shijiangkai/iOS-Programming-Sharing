@@ -131,11 +131,5 @@ site:zhihu.com/ iOS 零基础
 
 
 
-六、求份北京的 iOS 开发工作（实习也行）
---------------------------------
- [史江凯__--iOS--__简历](https://github.com/shijiangkai/MyResume)
-
-
-
 
 
